@@ -1,13 +1,13 @@
 # deep-learning
 
-##project1
+## project1
 
 fully connected 
 
-##project2
+## project2
 
 convolutional neural network
 
-##project3
+## project3
 
 recurrent neural network
